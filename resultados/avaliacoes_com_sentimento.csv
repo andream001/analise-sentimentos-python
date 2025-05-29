@@ -1,0 +1,11 @@
+id_avaliacao,texto_avaliacao,polaridade,sentimento_classificado
+1,"Adorei este produto, é fantástico e superou minhas expectativas!",0.0,Neutro
+2,"Não gostei muito, a qualidade deixou a desejar e não funciona bem.",0.0,Neutro
+3,"É um produto ok, nada de especial, mas também não é ruim.",0.5,Positivo
+4,Péssimo! Quebrou no primeiro dia de uso. Decepcionado.,0.0,Neutro
+5,"Maravilhoso, recomendo a todos! Comprarei novamente com certeza.",0.0,Neutro
+6,"Funciona como esperado, sem surpresas.",0.0,Neutro
+7,"Gostei bastante da funcionalidade, mas o design poderia ser melhor.",0.0,Neutro
+8,"Um dos melhores que já comprei, excelente custo-benefício.",0.0,Neutro
+9,"Terrível experiência, não recomendo a ninguém.",0.0,Neutro
+10,"Me surpreendeu positivamente, muito bom mesmo!",0.0,Neutro
