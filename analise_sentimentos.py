@@ -1,3 +1,15 @@
+import sys
+import os
+print("--- INFORMAÇÕES DE DEPURAÇÃO ---")
+print(f"Python Executable: {sys.executable}") # Qual Python está rodando este script?
+print(f"Python Version: {sys.version}")
+print("sys.path (onde o Python procura módulos):")
+for p in sys.path:
+    print(p)
+print(f"Variável de Ambiente VIRTUAL_ENV: {os.getenv('VIRTUAL_ENV')}") # O venv está definido?
+print("--- FIM DAS INFORMAÇÕES DE DEPURAÇÃO ---\n")
+
+
 from textblob import TextBlob
 import pandas as pd
 import plotly.express as px
